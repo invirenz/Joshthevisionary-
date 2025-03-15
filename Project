@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Best Gaming & Tech Deals</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+            background: #f4f4f4;
+            padding: 20px;
+        }
+        .container {
+            max-width: 800px;
+            margin: auto;
+            background: white;
+            padding: 20px;
+            border-radius: 10px;
+            box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+        }
+        h1 { color: #333; }
+        .product {
+            margin: 20px 0;
+            padding: 15px;
+            background: #fff;
+            border-radius: 10px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        .btn {
+            display: inline-block;
+            padding: 10px 15px;
+            margin: 10px;
+            background: #007bff;
+            color: white;
+            text-decoration: none;
+            border-radius: 5px;
+            font-weight: bold;
+        }
+        .btn:hover { background: #0056b3; }
+    </style>
+</head>
+<body>
+
+<div class="container">
+    <h1>Best Gaming & Tech Deals</h1>
+    <p>These are my top recommended products. Click below to check them out on Amazon.</p>
+
+    <div class="product">
+        <h2>Logitech Pro Wireless Mouse</h2>
+        <p>Top-tier wireless gaming mouse with no latency and insane battery life.</p>
+        <a href="https://amzn.to/41tXze0" target="_blank" class="btn">Buy Now</a>
+    </div>
+
+    <div class="product">
+        <h2>Logitech Powerplay Wireless Charging Pad</h2>
+        <p>Never charge your mouse again. This pad keeps your Logitech Pro Wireless at 100% forever.</p>
+        <a href="https://amzn.to/4byxS0m" target="_blank" class="btn">Buy Now</a>
+    </div>
+
+    <div class="product">
+        <h2>SteelSeries Arctis Pro Wireless Headset</h2>
+        <p>Crystal-clear sound, zero lag, and unmatched comfort for gaming.</p>
+        <a href="https://amzn.to/41UtwvU" target="_blank" class="btn">Buy Now</a>
+    </div>
+
+    <p><em>These are affiliate links, which help support me at no extra cost to you.</em></p>
+</div>
+
+</body>
+</html>
